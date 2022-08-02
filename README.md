@@ -1,2 +1,2 @@
 # BinaryHeap
-Implementing Binary heap using array(max heap0
+Implementing Binary heap and heapsort using array(max heap) 
